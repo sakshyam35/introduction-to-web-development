@@ -1,0 +1,8 @@
+.container {
+  color: beige;
+  background-color: darkcyan;
+  padding: 20px;
+  border: 2px solid black;
+  margin-top: 25px;
+  text-align: center;
+}
