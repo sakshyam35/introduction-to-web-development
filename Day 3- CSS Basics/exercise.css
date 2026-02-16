@@ -1,0 +1,29 @@
+header{
+    margin-top: 5px;
+    padding: 5px;
+    background-color: aliceblue;
+    text-align: center;
+    border: 2px solid black;
+}
+.id_container{
+    width:fit-content;
+    margin:auto;
+    background-color:blanchedalmond;
+}
+section.pic{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
+section.info{
+    text-align: center;
+}
+h1{
+    color: rgb(107, 6, 154);
+}
+footer{
+    background-color: aliceblue;
+    text-align: center;
+}
